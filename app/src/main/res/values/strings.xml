@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TemperatureConverter</string>
+    <string name="app_tile"> Temperature Converter</string>
+    <string name="degree_label">Degree</string>
+    <string name="type_conversion">Type</string>
+    <string name="btn_title">convert</string>
+    <string name="result_lable">Result</string>
 </resources>
